@@ -7,3 +7,5 @@ https://drive.google.com/file/d/1lPF6qWTaBRj07soQk0QqJs0kBPrEqweP/view?usp=drive
 
 
 https://github.com/rezailyngualiza-star/Django.git
+
+https://drive.google.com/file/d/105KsqZK9iaUVWRijysAl9y-5m43f03zt/view?usp=sharing
