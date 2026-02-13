@@ -1,3 +1,2 @@
-https://github.com/rezailyngualiza-star/Django.git
-Messenger_creation_E481FB77-D472-4E50-B870-D722643A11CD.mp4
-Messenger_creation_20CD5201-4240-4806-9F39-EC3E6C349707.jpeg
+https://drive.google.com/file/d/1pRJa5mdMXPBivaSdNZmmMCrf5i8Ht3YW/view?usp=drivesdk
+https://drive.google.com/file/d/1lPF6qWTaBRj07soQk0QqJs0kBPrEqweP/view?usp=drivesdk
