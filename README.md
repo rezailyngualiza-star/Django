@@ -1,12 +1,17 @@
+activity 4
+
 https://drive.google.com/file/d/1h1bLl7U5oUcu02sTyKD9m-rWaWMETGoG/view?usp=drivesdk
 
 https://drive.google.com/file/d/1pFZd61KLVdJ9BZWO9EvhYy2Y_sxrpz1h/view?usp=sharing
 
+activity 1
+
 https://drive.google.com/file/d/1pRJa5mdMXPBivaSdNZmmMCrf5i8Ht3YW/view?usp=drivesdk
 
-
+activity 2
 https://drive.google.com/file/d/1lPF6qWTaBRj07soQk0QqJs0kBPrEqweP/view?usp=drivesdk
 
+activity 3
 
 https://github.com/rezailyngualiza-star/Django.git
 
